@@ -1,5 +1,8 @@
 # 🛡️ SafeJobs.AI - Fake Job Scam Detector
 
+![image](https://github.com/user-attachments/assets/bf5064a1-f848-4fc8-aecc-f00dbf1a8f6d)
+
+
 > 🔍 Detect fraudulent job postings using the power of **BERT AI + Streamlit**  
 > 🌐 [Try it Live →](https://safejobs-ai.streamlit.app/)
 
